@@ -1,0 +1,37 @@
+Date,Product,Category,Region,Sales,Quantity,Price
+2023-01-15,Laptop,Electronics,North,1200.50,2,600.25
+2023-01-20,Smartphone,Electronics,South,800.75,3,266.92
+2023-01-25,Desk Chair,Furniture,East,350.00,5,70.00
+2023-02-05,Tablet,Electronics,West,600.25,2,300.13
+2023-02-10,Desk,Furniture,North,450.00,1,450.00
+2023-02-15,Headphones,Electronics,South,120.99,4,30.25
+2023-03-01,Monitor,Electronics,East,350.50,2,175.25
+2023-03-10,Keyboard,Electronics,West,80.00,5,16.00
+2023-03-15,Mouse,Electronics,North,45.99,6,7.67
+2023-04-05,Sofa,Furniture,South,1200.00,1,1200.00
+2023-04-10,Coffee Table,Furniture,East,250.00,2,125.00
+2023-04-20,Bookshelf,Furniture,West,180.00,3,60.00
+2023-05-01,Printer,Electronics,North,300.00,2,150.00
+2023-05-15,Desk Lamp,Furniture,South,75.50,4,18.88
+2023-05-25,External Hard Drive,Electronics,East,120.00,3,40.00
+2023-06-05,Office Chair,Furniture,West,280.00,2,140.00
+2023-06-15,Smartphone,Electronics,North,900.00,3,300.00
+2023-06-25,Laptop,Electronics,South,1500.00,2,750.00
+2023-07-01,Tablet,Electronics,East,550.00,2,275.00
+2023-07-10,Desk,Furniture,West,400.00,1,400.00
+2023-07-20,Headphones,Electronics,North,150.00,5,30.00
+2023-08-05,Monitor,Electronics,South,380.00,2,190.00
+2023-08-15,Keyboard,Electronics,East,90.00,6,15.00
+2023-08-25,Mouse,Electronics,West,50.00,8,6.25
+2023-09-01,Sofa,Furniture,North,1300.00,1,1300.00
+2023-09-10,Coffee Table,Furniture,South,280.00,2,140.00
+2023-09-20,Bookshelf,Furniture,East,200.00,4,50.00
+2023-10-05,Printer,Electronics,West,320.00,2,160.00
+2023-10-15,Desk Lamp,Furniture,North,80.00,5,16.00
+2023-10-25,External Hard Drive,Electronics,South,130.00,4,32.50
+2023-11-01,Office Chair,Furniture,East,300.00,2,150.00
+2023-11-10,Smartphone,Electronics,West,950.00,3,316.67
+2023-11-20,Laptop,Electronics,North,1600.00,2,800.00
+2023-12-05,Tablet,Electronics,South,580.00,2,290.00
+2023-12-15,Desk,Furniture,East,420.00,1,420.00
+2023-12-25,Headphones,Electronics,West,160.00,5,32.00 
